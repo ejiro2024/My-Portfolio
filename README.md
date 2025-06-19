@@ -11,23 +11,22 @@ A seasoned data analyst, virtual assistant and a cybersecurity enthusiast. I hel
 
 *As a Data Analyst, I collaborate with teams to discover insights that help organisations maintain their competitive edge. I provide consulting services for businesses.*
 
-** ✅ Data Entry.**
+**✅Data Entry.**
 
 I help businesses and organisations collate data in a structured manner to prevent data loss.
 
-** ✅ Data Cleaning and transformation.**
+**✅Data Cleaning and transformation.**
 
 I clean and transform data using tools like Excel worksheet, functions and power query
 
-** ✅ Data Visualisation.**
+**✅Data Visualisation.**
 
 With tools like Microsoft Power Bi and Tableau, I am able to visualise insights summarily
 
-** ✅ Report building.**
+**✅Report building.**
 I build reports contaiing information and recommendations
 
-** ✅ Data Analytics Consulting.**
-
+**✅Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 
@@ -66,15 +65,15 @@ This dataset contains the names, demography, wealth status, fiinal worth of top 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://github.com/ejiro2024.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://drive.google.com/file/d/1EWKIw3M2b3LbyA4_lKPfVd4u_h_rXLB3/view?usp=drive_link">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/ejirooghene-onofuevure-1b1b79150/">How I show up on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+    
     </tr>
   </tbody>
 </table>
