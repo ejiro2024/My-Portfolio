@@ -9,7 +9,7 @@ A seasoned data analyst, virtual assistant and a cybersecurity enthusiast. I hel
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As a Data Analyst, I collaborate with teams to discover insights that help organisations maintain their competitive edge. I provide consulting services for businesses.*
+As a Data Analyst, I collaborate with teams to discover insights that help organisations maintain their competitive edge as well as provide consulting services for businesses.
 
 **✅Data Entry.**
 
@@ -72,7 +72,7 @@ This dataset contains the names, demography, wealth status, fiinal worth of top 
       <td><a href="https://www.linkedin.com/in/ejirooghene-onofuevure-1b1b79150/">How I show up on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
+      
     
     </tr>
   </tbody>
