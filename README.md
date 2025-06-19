@@ -1,7 +1,9 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Ejirooghene 🤓, a data analyst, virtual assistant and a cybersecurity enthusiast. I help individuals, businesses and organisations make decisions with their data. With experience across sales, operations, HR and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Ejirooghene 🤓
+
+A seasoned data analyst, virtual assistant and a cybersecurity enthusiast. I help individuals, businesses and organisations make decisions with their data. With experience across sales, operations, HR and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -35,28 +37,14 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 *A glimpse of some of the projects I've been working on.*
 
 **Billionare Dataset Analysis.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Billionaire_dashboard.PNG)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+This dataset contains the names, demography, wealth status, fiinal worth of top rich individuals in the world.
 
 
 [Read More](https://github.com/ejiro2024/Billionaire-Dataset-Project-Analysis)
+ 
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
@@ -66,19 +54,19 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:ejiroogheneonofuevure@gmail.com">ejiroogheneonofuevure@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 816-994-3284</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Awka, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://github.com/ejiro2024.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
