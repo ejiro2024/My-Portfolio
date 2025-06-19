@@ -24,9 +24,11 @@ I clean and transform data using tools like Excel worksheet, functions and power
 With tools like Microsoft Power Bi and Tableau, I am able to visualise insights summarily
 
 **✅Report building.**
+
 I build reports contaiing information and recommendations
 
 **✅Data Analytics Consulting.**
+
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 
