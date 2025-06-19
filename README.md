@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Ejirooghene 🤓
+Hey! I'm Ejirooghene 🤓
 
 A seasoned data analyst, virtual assistant and a cybersecurity enthusiast. I help individuals, businesses and organisations make decisions with their data. With experience across sales, operations, HR and customer service, I help businesses solve challenges and unlock growth.
 
@@ -38,6 +38,8 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 *A glimpse of some of the projects I've been working on.*
 
 **Billionare Dataset Analysis.**
+
+
 ![image](Billionaire_dashboard.PNG)
 
 This dataset contains the names, demography, wealth status, fiinal worth of top rich individuals in the world.
