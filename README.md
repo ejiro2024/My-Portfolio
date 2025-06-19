@@ -10,14 +10,22 @@ Hello! I'm Ejirooghene 🤓, a data analyst, virtual assistant and a cybersecuri
 *As a Data Analyst, I collaborate with teams to discover insights that help organisations maintain their competitive edge. I provide consulting services for businesses.*
 
 ** ✅ Data Entry.**
+
 I help businesses and organisations collate data in a structured manner to prevent data loss.
 
 ** ✅ Data Cleaning and transformation.**
+
 I clean and transform data using tools like Excel worksheet, functions and power query
 
 ** ✅ Data Visualisation.**
+
 With tools like Microsoft Power Bi and Tableau, I am able to visualise insights summarily
+
+** ✅ Report building.**
+I build reports contaiing information and recommendations
+
 ** ✅ Data Analytics Consulting.**
+
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 
@@ -26,13 +34,13 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Billionare Dataset Analysis.**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://github.com/ejiro2024/Billionaire-Dataset-Project-Analysis)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
